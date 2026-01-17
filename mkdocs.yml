@@ -43,6 +43,7 @@ nav:
     - Wiki: official/wiki.md
     - 线路图与世界地图: official/maps.md
     - Discord: official/discord.md
+    - Minecraft 加速 IP: official/acceleration.md
   - 社区资源:
     - QQ群聊: community/qq.md
     - 网盘资源与离线线路图: community/downloads.md
@@ -77,4 +78,4 @@ markdown_extensions:
       permalink: true
 
 # 版权信息（可选）
-copyright: Copyright &copy; 2026 LPSGUIDE
+copyright: Copyright &copy; 2024 LPS Community

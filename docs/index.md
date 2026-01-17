@@ -22,7 +22,7 @@
 
 本站提供以下内容：
 
-- 📚 **官方资源**：Wiki、线路图、世界地图、Discord 等官方渠道信息
+- 📚 **官方资源**：Wiki、线路图、世界地图、Discord、加速 IP 等官方渠道信息
 - 💬 **社区资源**：QQ群、网盘资源、玩家图册等社区内容
 - 📖 **使用指南**：如何提问、如何遵守规范、常见问题解答
 
@@ -63,6 +63,14 @@
     加入官方 Discord 服务器，实时交流
 
     [:octicons-arrow-right-24: 加入Discord](official/discord.md)
+
+-   :material-speedometer:{ .lg .middle } __Minecraft 加速 IP__
+
+    ---
+
+    获取服务器加速 IP，获得更快的连接速度
+
+    [:octicons-arrow-right-24: 查看加速 IP](official/acceleration.md)
 
 -   :material-qqchat:{ .lg .middle } __QQ群__
 
