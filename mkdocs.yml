@@ -1,6 +1,6 @@
-site_name: lps-community-guide
-site_description: LPS社区指南文档站点
-site_author: LPS Community
+site_name: MTR齐齐玩服务器社区非官方指南
+site_description: 这里是由MTR齐齐玩服务器玩家社区搭建的非官方指南，希望你能找到你想要的内容！
+site_author: LPS Community Team
 
 # 文档目录
 docs_dir: docs
