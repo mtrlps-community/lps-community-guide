@@ -48,6 +48,7 @@ nav:
     - QQ 群聊: community/qq.md
     - 网盘资源与线路图: community/downloads.md
     - 图册: gallery/index.md
+  - 关于网站: about.md
 
 # 插件
 plugins:
