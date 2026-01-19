@@ -44,7 +44,7 @@ nav:
     - Wiki: official/wiki.md
     - 线路图与世界地图: official/maps.md
     - Discord: official/discord.md
-    - Minecraft 连接 IP: official/acceleration.md
+    - 服务器 IP: official/acceleration.md
   - 社区资源:
     - QQ 群聊: community/qq.md
     - 网盘资源与线路图: community/downloads.md
@@ -80,7 +80,7 @@ markdown_extensions:
       permalink: true
 
 # 版权信息（可选）
-copyright: Copyright &copy; 2026 LPS Community
+copyright: Copyright &copy; 2026 LPS Community Team
 
 extra_javascript:
   - javascripts/umami.js

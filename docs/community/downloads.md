@@ -39,15 +39,13 @@
 
 **线路图加速地址**：`https://map.lpsguide.cn`
 
-此线路图由
-
 ## 地图
 
 **地图官方地址**：`https://letsplay.minecrafttransitrailway.com/world-map/` 
 
 **地图加速地址**：`https://map.lpsguide.cn/world-map/`
 
-地图加速地址由 GTEH 加以改进
+地图加速地址由 GTEH 优化，修复了官方版的部分 BUG 并添加了简体中文翻译和一些其他实用的新功能。
 
 ## 导航
 
@@ -71,7 +69,7 @@
 
 ### 📋 下载规范
 
-在使用网盘资源和离线线路图时，请遵守以下规范：
+在使用网盘资源和线路图时，请遵守以下规范：
 
 #### ✅ 允许的行为
 
