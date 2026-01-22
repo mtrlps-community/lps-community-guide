@@ -1,128 +1,104 @@
-# LPS社区指南
-
-## 欢迎
-
-欢迎来到 **LPS 社区指南**！这里是您了解服务器规则、获取官方资源、参与社区交流的重要入口。
-
-本指南旨在帮助新玩家快速融入社区，同时也为老玩家提供便捷的资源索引。请仔细阅读相关内容，遵守社区规范，共同维护一个友好、有序的社区环境。
-
+---
+title: MTR Let's Play齐齐玩服务器非官方指南
+description: 在此获取由社区整理的齐齐玩服务器资源
+hide_docs_list: true
+hide:
+  - navigation
+  - toc
 ---
 
-## 关于本站
-
-**本站性质**：LPS 服务器官方社区文档站点
-**维护者**：LPS 社区团队
-**更新频率**：持续更新中
-
-本站提供以下内容：
-
-- 📚 **官方资源**：Wiki、线路图、世界地图、Discord、加速 IP 等官方渠道信息
-- 💬 **社区资源**：QQ群、网盘资源、玩家图册等社区内容
-- 📖 **使用指南**：如何提问、如何遵守规范、常见问题解答
-
----
-
-## 常用链接
-
-<div class="grid cards" markdown>
-
--   :material-wikipedia:{ .lg .middle } __Wiki__
-
-    ---
-
-    官方知识库，包含服务器详细介绍、游戏规则、FAQ等
-
-    [:octicons-arrow-right-24: 前往Wiki](official/wiki.md)
-
--   :material-map:{ .lg .middle } __线路图__
-
-    ---
-
-    查看服务器线路规划和实时状态
-
-    [:octicons-arrow-right-24: 查看线路图](official/maps.md)
-
--   :material-map-marker:{ .lg .middle } __世界地图__
-
-    ---
-
-    探索服务器世界，查看各地标和重要位置
-
-    [:octicons-arrow-right-24: 查看地图](official/maps.md)
-
--   :material-discord:{ .lg .middle } __Discord__
-
-    ---
-
-    加入官方 Discord 服务器，实时交流
-
-    [:octicons-arrow-right-24: 加入Discord](official/discord.md)
-
--   :material-speedometer:{ .lg .middle } __Minecraft 加速 IP__
-
-    ---
-
-    获取服务器加速 IP，获得更快的连接速度
-
-    [:octicons-arrow-right-24: 查看加速 IP](official/acceleration.md)
-
--   :material-qqchat:{ .lg .middle } __QQ群__
-
-    ---
-
-    加入社区QQ群，与其他玩家互动
-
-    [:octicons-arrow-right-24: 查看QQ群信息](community/qq.md)
-
--   :material-cloud-download:{ .lg .middle } __网盘资源__
-
-    ---
-
-    下载离线地图、存档等社区资源
-
-    [:octicons-arrow-right-24: 访问网盘](community/downloads.md)
-
--   :material-image-multiple:{ .lg .middle } __图册__
-
-    ---
-
-    浏览玩家作品、服务器风景、建筑等图片
-
-    [:octicons-arrow-right-24: 查看图册](gallery/index.md)
-
+<div class="headerBackground">
+    <div class="image"></div>
+    <h1>MTR Let's Play齐齐玩服务器非官方指南</h1>
+    <p>在此获取由社区整理的齐齐玩服务器资源</p>
 </div>
 
----
+<center>
+<h2>资源分类</h2>
+<div class="productsTable">
+    <a class="product" href="nmbot-telegram">
+        <img src="/assets/official-icon.png" alt="official info" />
+        <h3>进服指南与官方资源</h3>
+    </a>
+    <a class="product" href="nmteam-account">
+        <img src="/assets/community-icon.png" alt="community info" />
+        <h3>社区资源</h3>
+    </a>
+    <a class="product" href="contact-us">
+        <img src="/assets/about-page-icon.png" alt="about us" />
+        <h3>关于本站</h3>
+    </a>
+</div>
+</center>
 
-## 社区守则（摘要）
+## 关于
 
-在深入使用本站之前，请了解以下基本守则：
+本站为由齐齐玩服务器社区团队维护的非官方指南站点，致力于为国内玩家提供更加流畅的游玩体验。
 
-1. ✅ **尊重他人**：保持友好、礼貌的交流氛围
-2. ✅ **遵守规则**：阅读并遵守服务器规则和群规
-3. ✅ **先搜索后提问**：遇到问题时先尝试自己解决，再寻求帮助
-4. ✅ **规范言行**：禁止发送低质量内容、引战言论或不当信息
-5. ✅ **合理使用资源**：下载和转载资源时请注明来源，尊重原作者
+你可以前往[GitHub](https://github.com/mtrlps-community)了解我们的组织。
 
-详细规则请参阅各资源页面的说明。
-
----
-
-## 快速开始
-
-1. 📖 浏览本指南，了解服务器基本信息和可用资源
-2. 💬 选择合适的交流渠道（Discord 或 QQ群）加入社区
-3. 🗺️ 查看线路图和世界地图，规划您的游戏之旅
-4. 📸 浏览图册，感受社区的创意与活力
-
----
-
-## 需要帮助？
-
-- 📖 查看 [Wiki](official/wiki.md) 获取详细文档
-- 💬 在 [Discord](official/discord.md) 或 [QQ群](community/qq.md) 中提问（请先阅读提问指南）
-- 🔍 使用本站搜索功能查找相关信息
-
----
-
-*最后更新：请查看页面底部的 Git 提交日期*
+<style>
+    .headerBackground {
+        position: relative;
+        width: 120%;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: -50px -10% 20px -10%;
+    }
+    .headerBackground .image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: var(--md-default-bg-color);
+        background-image: url(/assets/index-thumbnail.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        z-index: -1;
+    }
+    body[data-md-color-media="(prefers-color-scheme: dark)"] .headerBackground .image {
+        filter: brightness(0.7);
+    }
+    .headerBackground h1,
+    .headerBackground p {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+        font-weight: bold !important;
+        color: #fff !important;
+    }
+    .productsTable {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .product {
+        width: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+        border-radius: 0.2rem;
+        color: var(--md-default-fg-color) !important;
+    }
+    .product:hover,
+    .product:focus-visible {
+        background-color: var(--md-default-fg-color--lightest);
+    }
+    .product img {
+        width: 64px;
+        height: 64px;
+        border-radius: 8px;
+    }
+    .product h3 {
+        margin-top: 1rem;
+        margin-bottom: 0;
+    }
+</style>
