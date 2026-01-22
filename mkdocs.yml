@@ -8,6 +8,11 @@ docs_dir: docs
 # 站点输出目录
 site_dir: site
 
+# GitHub仓库信息
+repo_name: 'mtrlps-community/lps-community-guide'
+repo_url: 'https://github.com/mtrlps-community/lps-community-guide'
+edit_uri: 'https://github.com/mtrlps-community/lps-community-guide/edit/main/docs/'
+
 # 语言设置
 theme:
   name: material
@@ -34,6 +39,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.annotate
+    - content.action.edit
   # logo: assets/logo.png  # TODO: 添加站点logo，建议尺寸：120x120px
   # favicon: assets/favicon.ico  # TODO: 添加站点favicon，建议尺寸：32x32px
 
@@ -81,8 +87,14 @@ markdown_extensions:
       permalink: true
 
 # 版权信息（可选）
-copyright: Copyright &copy; 2026 LPS Community Team
+copyright: Copyright &copy; 2026 Let's Play Server Community Team
 
+# 扩展
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mtrlps-community
+      name: GitHub
 extra_javascript:
   - javascripts/umami.js
 extra_css:
