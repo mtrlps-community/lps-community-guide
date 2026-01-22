@@ -1,6 +1,6 @@
-# 网盘资源与离线线路图
+# 网盘资源与线路图
 
-本页面提供 LPS 服务器的网盘资源与离线线路图的下载与使用说明。
+本页面提供 LPS 服务器的网盘资源与线路图的下载与使用说明。
 
 ---
 
@@ -11,7 +11,6 @@
 网盘资源包含服务器相关的各类文件，如存档、地图、资源包、客户端配置等。这些资源由社区成员整理分享，供玩家下载使用。
 
 ### 访问方式
-
 
 **网盘地址**：`https://download.lnlfly.com/`  
 
@@ -34,11 +33,35 @@
 
 ---
 
-线路图
+## 线路图
 
-**线路图官方地址**：`https://example.com/routemap/download` 
-**线路图加速地址**：`https://example.com/routemap/download`  
+**线路图官方地址**：`https://letsplay.minecrafttransitrailway.com/system-map/` 
 
+**线路图加速地址**：`https://map.lpsguide.cn`
+
+## 地图
+
+**地图官方地址**：`https://letsplay.minecrafttransitrailway.com/world-map/` 
+
+**地图加速地址**：`https://map.lpsguide.cn/world-map/`
+
+地图加速地址由 GTEH 优化，修复了官方版的部分 BUG 并添加了简体中文翻译和一些其他实用的新功能。
+
+## 导航
+
+#### 实时导航
+
+此方式的优点在于实时，导航结果是根据实时数据计算的，因此准确率较高。
+
+#### Pathfinder
+
+由 NinthBrake 制作的 MTR Pathfinder 支持在导航时设置更多限制（避开车站、路线，仅轻铁，不乘船，不乘高铁，越野），可通过以下方式使用：
+
+**线路图**：在**线路图加速地址**（官方地址不可用）中可以通过在菜单中将导航引擎设置为“pathfinder”使用 Pathfinder 导航（测试中，BUG 较多，不推荐）
+
+**在线导航**：`https://mtrlpspathfinder.zeabur.app/` （由 Tony_V2 制作）
+
+**QQ bot**：加入 [QQ 群](./qq.md) 后使用
 
 ---
 
@@ -46,7 +69,7 @@
 
 ### 📋 下载规范
 
-在使用网盘资源和离线线路图时，请遵守以下规范：
+在使用网盘资源和线路图时，请遵守以下规范：
 
 #### ✅ 允许的行为
 

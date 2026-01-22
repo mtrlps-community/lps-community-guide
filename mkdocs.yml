@@ -1,6 +1,7 @@
-site_name: MTR齐齐玩服务器社区非官方指南
-site_description: 这里是由MTR齐齐玩服务器玩家社区搭建的非官方指南，希望你能找到你想要的内容！
+site_name: MTR 齐齐玩服务器社区非官方指南
+site_description: 这里是由 MTR 齐齐玩服务器玩家社区搭建的非官方指南，希望你能找到你想要的内容！
 site_author: LPS Community Team
+site_url: https://www.lpsguide.cn 
 
 # 文档目录
 docs_dir: docs
@@ -39,15 +40,17 @@ theme:
 # 导航结构
 nav:
   - 首页: index.md
+  - 教程: tutorial/index.md
   - 官方资源:
     - Wiki: official/wiki.md
     - 线路图与世界地图: official/maps.md
     - Discord: official/discord.md
-    - Minecraft 加速 IP: official/acceleration.md
+    - 服务器 IP: official/acceleration.md
   - 社区资源:
-    - QQ群聊: community/qq.md
-    - 网盘资源与离线线路图: community/downloads.md
+    - QQ 群聊: community/qq.md
+    - 网盘资源与线路图: community/downloads.md
     - 图册: gallery/index.md
+  - 关于网站: about.md
 
 # 插件
 plugins:
@@ -78,4 +81,7 @@ markdown_extensions:
       permalink: true
 
 # 版权信息（可选）
-copyright: Copyright &copy; 2024 LPS Community
+copyright: Copyright &copy; 2026 LPS Community Team
+
+extra_javascript:
+  - javascripts/umami.js

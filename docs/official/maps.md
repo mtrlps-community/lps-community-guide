@@ -17,12 +17,10 @@
 
 ### 访问线路图
 
-!!! warning "链接占位"
 
-    当前为占位链接，请将下方链接替换为实际的线路图地址：
+**官方线路图地址**：`https://letsplay.minecrafttransitrailway.com/system-map/`
 
-**线路图地址**：`https://example.com/routemap`  
-**TODO**: 请将 `https://example.com/routemap` 替换为真实的线路图链接。
+如果您无法访问/访问速度过慢请见[网盘资源与线路图](../community/downloads.md)页面。
 
 ### 使用建议
 
@@ -45,12 +43,10 @@
 
 ### 访问世界地图
 
-!!! warning "链接占位"
+**官方世界地图地址**：`https://letsplay.minecrafttransitrailway.com/world-map/`
 
-    当前为占位链接，请将下方链接替换为实际的世界地图地址：
 
-**世界地图地址**：`https://example.com/worldmap`  
-**TODO**: 请将 `https://example.com/worldmap` 替换为真实的世界地图链接。
+如果您无法访问/访问速度过慢请见[网盘资源与线路图](../community/downloads.md)页面。
 
 ### 使用技巧
 
@@ -59,11 +55,7 @@
 3. **图层切换**：根据需要切换显示不同的图层（如建筑、线路等）
 4. **标记收藏**：将常用位置添加到收藏夹，方便快速访问
 
----
 
-## 离线地图下载
-
-如果您希望离线查看地图或获取更高分辨率的版本，请访问 [网盘资源与离线线路图](../community/downloads.md) 页面。
 
 ---
 
@@ -78,9 +70,8 @@
 
 如发现地图信息有误或希望提出改进建议，请通过以下方式联系：
 
-- 📢 [Discord 服务器](discord.md)
-- 💬 [QQ群](../community/qq.md)
-- 📧 直接联系管理员
+- 📢 [官方 Discord 服务器](discord.md)
+- 💬 [社区 QQ 群](../community/qq.md)
 
 ---
 
