@@ -16,15 +16,15 @@ hide:
 <center>
 <h2>资源分类</h2>
 <div class="productsTable">
-    <a class="product" href="/">
+    <a class="product" href="/tutorial">
         <img src="/assets/official-icon.png" alt="official info" />
-        <h3>进服指南与官方资源</h3>
+        <h3>进服教程与官方资源</h3>
     </a>
     <a class="product" href="/">
         <img src="/assets/community-icon.png" alt="community info" />
         <h3>社区资源</h3>
     </a>
-    <a class="product" href="/">
+    <a class="product" href="/about">
         <img src="/assets/about-page-icon.png" alt="about us" />
         <h3>关于本站</h3>
     </a>

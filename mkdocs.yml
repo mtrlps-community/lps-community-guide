@@ -46,24 +46,22 @@ theme:
 # 导航结构
 nav:
   - 首页: index.md
-  - 教程: tutorial/index.md
-  - 官方资源:
+  - 进服教程与官方资源:
+    - 教程: tutorial/index.md
     - Wiki: official/wiki.md
     - 线路图与世界地图: official/maps.md
     - Discord: official/discord.md
-    - 服务器 IP: official/acceleration.md
   - 社区资源:
     - QQ 群聊: community/qq.md
     - 网盘资源与线路图: community/downloads.md
-    - 图册: gallery/index.md
-  - 关于网站: about.md
+  - 关于网站: about/about.md
 
 # 插件
 plugins:
   - search:
       lang: zh
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
+  - git-revision-date-localized:
+      enable_creation_date: true
   # 如需使用 git-revision-date-localized 插件，请先安装：pip install mkdocs-git-revision-date-localized-plugin
 
 # 扩展配置
@@ -96,6 +94,6 @@ extra:
       link: https://github.com/mtrlps-community
       name: GitHub
 extra_javascript:
-  - javascripts/umami.js
+  - assets/umami.js
 extra_css:
   - assets/stylesheets/global.css
