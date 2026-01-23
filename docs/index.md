@@ -37,6 +37,11 @@ hide:
 
 你可以前往[GitHub](https://github.com/mtrlps-community)了解我们的组织。
 
+## 参与编辑本 Wiki
+
+本站由[MTR Let’s Play 齐齐玩服务器玩家社区](https://github.com/mtrlps-community)成员和社区贡献者共同编辑。您可以在[GitHub](https://github.com/mtrlps-community/lps-community-guide)上参与贡献此文档。
+
+
 <style>
     :root {
         text-autospace: normal;
