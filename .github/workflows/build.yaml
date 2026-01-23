@@ -1,8 +1,8 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
-      - master 
+      - master
       - main
 permissions:
   contents: write
@@ -17,14 +17,14 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+          python-version: '3.11'
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
-          path: ~/.cache 
+          path: ~/.cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: pip install git-revision-date-localized
+      - run: python -m pip install --upgrade pip setuptools wheel
+      - run: pip install mkdocs-material git-revision-date-localized
       - run: mkdocs gh-deploy --force
