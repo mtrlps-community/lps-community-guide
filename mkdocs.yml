@@ -51,8 +51,8 @@ nav:
     - 官方Wiki、线路图与世界地图: official/websites.md
     - Discord: official/discord.md
   - 社区资源:
-    - QQ 群聊: community/qq.md
     - 网盘资源与线路图: community/downloads.md
+    - QQ 群聊: community/qq-group.md
   - 关于网站: about/about.md
 
 # 插件
@@ -79,6 +79,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - footnotes
   - toc:
       permalink: true
 

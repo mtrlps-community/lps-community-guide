@@ -20,7 +20,7 @@ hide:
         <img src="/assets/official-icon.png" alt="official info" />
         <h3>进服教程与官方资源</h3>
     </a>
-    <a class="product" href="/">
+    <a class="product" href="community/qq-group">
         <img src="/assets/community-icon.png" alt="community info" />
         <h3>社区资源</h3>
     </a>

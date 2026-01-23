@@ -12,7 +12,7 @@
 
 ### 访问方式
 
-**网盘地址**：`https://download.lnlfly.com/`  
+**网盘地址**：`https://download.lnlfly.com/`
 
 ### 资源分类
 
