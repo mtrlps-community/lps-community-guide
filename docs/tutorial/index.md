@@ -32,4 +32,4 @@
 
 ### 启动  
 启动游戏选择多人游戏尽情享用吧  
-如没有服务器请见 [连接ip](official/acceleration.md)
+如没有服务器请见 [连接ip](../official/acceleration.md)
