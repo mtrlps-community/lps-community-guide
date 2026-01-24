@@ -14,6 +14,8 @@ description: 获取由社区提供的服务器资源与线路图镜像
 由文档维护成员[@TonyV2](https://github.com/TonyV2Intl)整理出的齐齐玩服务器资源，[@fenychn0206](https://github.com/fenychn0206)提供了对OneDrive的反向代理以解决国内用户无法访问OneDrive的问题。
 
 访问地址：[https://lpsresource.ooowl.net/](https://lpsresource.ooowl.net/)
+<br>
+访问密码：`dEqH`
 
 ### MTR Let's Play整合包
 
@@ -34,7 +36,7 @@ description: 获取由社区提供的服务器资源与线路图镜像
 - 测试服务器[^2]的线路图。
 
 [^1]: 一个曾经辉煌的MTR服务器，现已关闭。
-[^2]: 测试服务器IP地址：135.148.15.1:26888。
+[^2]: 测试服务器IP地址：`135.148.15.1:26888`。
 
 - 线路图访问地址：[https://map.lpsguide.cn](https://map.lpsguide.cn)
 - 世界地图访问地址：[https://map.lpsguide.cn/world-map/](https://map.lpsguide.cn/world-map/)
