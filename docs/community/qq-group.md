@@ -5,7 +5,7 @@ description: 加入由社区创建的QQ群组一起交流
 
 QQ 群是齐齐玩社区的重要交流平台之一。请仔细阅读本页内容，了解加群要求、群规和使用指南。
 
-请注意 QQ 群为服务器支持团队玩家[@NinthBrake](https://github.com/CokeStudios)组建，截至目前，齐齐玩服务器官方未在 QQ 设立官方群聊。
+QQ 群为服务器支持团队玩家[@NinthBrake](https://github.com/CokeStudios)组建，截至目前，齐齐玩服务器官方未在 QQ 设立官方群聊。
 
 社区共设置了五个群聊，群号如下：
 
