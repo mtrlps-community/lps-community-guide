@@ -23,6 +23,6 @@ mkdocs serve
 
 这里也非常感谢参与本项目的[朋友们](https://github.com/mtrlps-community/lps-community-guide/graphs/contributors)和为本项目捐赠的[朋友们](https://www.lpsguide.cn/about/sponsorship/)。
 
-> **lps-community-guide** &copy; mtrlps-community
+> **lps-community-guide** &copy; mtrlps-community | Licensed under [MIT License](LICENSE).
 >
-> 除特别注明外，项目中除了代码部分均采用 [(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议](LICENSE) 协议，使用过程中您可以自由地共享、演绎，但是必须署名、以相同方式共享、分享时没有附加限制。
+> 除特别注明外，项目中除了代码部分均采用 [(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议，使用过程中您可以自由地共享、演绎，但是必须署名、以相同方式共享、分享时没有附加限制。
