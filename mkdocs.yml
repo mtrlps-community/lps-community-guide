@@ -87,7 +87,7 @@ markdown_extensions:
       permalink: true
 
 # 版权信息（可选）
-copyright: &copy; 2026 Let\'s Play Server Community Team<br>本项目与组织与Microsoft、Mojang及MTR模组与齐齐玩服务器官方无关。<br>除特别注明外，项目中除了代码部分均采用 (Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议 协议，使用过程中您可以自由地共享、演绎，但是必须署名、以相同方式共享、分享时没有附加限制。
+copyright: &copy; 2026 齐齐玩服务器玩家社区<br>本项目与组织与Microsoft、Mojang及MTR模组与齐齐玩服务器官方无关。<br>除特别注明外，项目中除了代码部分均采用 (Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议 协议，使用过程中您可以自由地共享、演绎，但是必须署名、以相同方式共享、分享时没有附加限制。
 
 # 扩展
 extra:
