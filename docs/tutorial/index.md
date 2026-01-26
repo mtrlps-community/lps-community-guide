@@ -12,8 +12,6 @@ description: 本页面提供服务器加入指南及加速IP
 - 一个已经登录好正版账号的PCL2/HMCL启动器（官方启动器由于无法自动安装整合包，无法使用）
 - 一个能够思考问题的大脑
 
-## [详细安装教程](https://tonyv2.top/wp-content/uploads/2026/01/资源说明与进服指南V2.2（点击可直接查看）.pdf)
-
 ## 整合包安装教程
 
 整合包下载链接见[下载链接](../community/downloads.md)
