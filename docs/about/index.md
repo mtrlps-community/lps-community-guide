@@ -5,7 +5,7 @@ description: 在这里了解我们的项目和组织
 
 本网站是由 MTR Let’s Play 齐齐玩服务器玩家社区运营的非官方 Wiki。
 
-有关官方网站信息请移步至[官方Wiki、线路图与世界地图](/official/websites/)查看
+有关官方网站信息请移步至[官方Wiki、线路图与世界地图](../official/websites.md)查看
 
 ## 贡献
 

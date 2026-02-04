@@ -25,7 +25,7 @@ description: 获取由社区提供的服务器资源与线路图镜像
 
 ## 线路图与世界地图
 
-官方地址请前往[官方Wiki、线路图与世界地图](/official/websites/)查看
+官方地址请前往[官方Wiki、线路图与世界地图](../official/websites.md)查看
 
 为照顾国内用户的访问体验，文档维护成员[@xingteh](https://github.com/xingteh)对线路图与世界地图进行了镜像，并提供以下服务：
 
