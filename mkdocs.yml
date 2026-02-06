@@ -18,20 +18,26 @@ theme:
   name: material
   language: zh
   palette:
-    # 浅色主题
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-auto
+        name: 切换到浅色模式
+    # 浅色主题
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: deep-orange
+      toggle:
+        icon: material/weather-sunny
         name: 切换到深色模式
     # 深色主题
-    - scheme: slate
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep-orange
       toggle:
-        icon: material/brightness-4
-        name: 切换到浅色模式
+        icon: material/weather-night
+        name: 切换到自动模式
   features:
     - navigation.tabs
     - navigation.sections
