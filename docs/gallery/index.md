@@ -76,7 +76,7 @@
 #### 示例条目
 
 ```markdown
-![主城中心建筑](assets/gallery/buildings/main-city-center.jpg)
+![主城中心建筑](assets/img/gallery/buildings/main-city-center.jpg)
 
 **标题**：主城中心建筑群  
 **作者**：@玩家名称  
@@ -121,7 +121,7 @@
 #### 示例条目
 
 ```markdown
-![春节庆典活动](assets/gallery/events/spring-festival.jpg)
+![春节庆典活动](assets/img/gallery/events/spring-festival.jpg)
 
 **标题**：2024年春节庆典  
 **时间**：2024年2月  
@@ -159,7 +159,7 @@
 #### 示例条目
 
 ```markdown
-![主城夜景](assets/gallery/landscapes/city-night.jpg)
+![主城夜景](assets/img/gallery/landscapes/city-night.jpg)
 
 **标题**：主城夜景  
 **摄影师**：@玩家名称  
@@ -199,7 +199,7 @@
 #### 示例条目
 
 ```markdown
-![中央车站](assets/gallery/transport/central-station.jpg)
+![中央车站](assets/img/gallery/transport/central-station.jpg)
 
 **标题**：中央火车站  
 **建设者**：@玩家名称  
@@ -236,7 +236,7 @@
 #### 示例条目
 
 ```markdown
-![自动农场系统](assets/gallery/works/auto-farm.jpg)
+![自动农场系统](assets/img/gallery/works/auto-farm.jpg)
 
 **标题**：全自动农场系统  
 **作者**：@玩家名称  
@@ -267,13 +267,13 @@
 ### 方式一：标准 Markdown 图片
 
 ```markdown
-![图片描述](assets/gallery/example.jpg)
+![图片描述](assets/img/gallery/example.jpg)
 ```
 
 ### 方式二：带链接的图片
 
 ```markdown
-[![图片描述](assets/gallery/example.jpg)](assets/gallery/example.jpg)
+[![图片描述](assets/img/gallery/example.jpg)](assets/img/gallery/example.jpg)
 ```
 
 ### 方式三：使用卡片布局
@@ -281,11 +281,11 @@
 ```markdown
 <div class="grid cards" markdown>
 
--   ![建筑1](assets/gallery/buildings/1.jpg)
+-   ![建筑1](assets/img/gallery/buildings/1.jpg)
 
     **标题**：建筑名称
 
--   ![建筑2](assets/gallery/buildings/2.jpg)
+-   ![建筑2](assets/img/gallery/buildings/2.jpg)
 
     **标题**：建筑名称
 

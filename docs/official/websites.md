@@ -5,7 +5,7 @@ description: 官方Wiki、线路图及世界地图
 
 ## Wiki
 
-![wiki-preview](../assets/wiki-preview.png)
+![wiki-preview](../assets/img/wiki-preview.png)
 
 Wiki是由齐齐玩服务器官方及社区维护的知识库，其中包含服务器介绍、站点信息、线路信息等，您可定期查看以获取最新信息。
 
@@ -13,7 +13,7 @@ Wiki是由齐齐玩服务器官方及社区维护的知识库，其中包含服�
 
 ## 线路图
 
-![system-map-preview](../assets/system-map-preview.png)
+![system-map-preview](../assets/img/system-map-preview.png)
 
 ### 什么是线路图？
 
@@ -29,7 +29,7 @@ Wiki是由齐齐玩服务器官方及社区维护的知识库，其中包含服�
 
 ## 世界地图
 
-![world-map-preview](../assets/world-map-preview.png)
+![world-map-preview](../assets/img/world-map-preview.png)
 
 ### 什么是世界地图？
 
