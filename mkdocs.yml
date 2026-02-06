@@ -46,8 +46,8 @@ theme:
     - search.highlight
     - content.code.annotate
     - content.action.edit
-  # logo: assets/logo.png  # TODO: 添加站点logo，建议尺寸：120x120px
-  # favicon: assets/favicon.ico  # TODO: 添加站点favicon，建议尺寸：32x32px
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
 
 # 导航结构
 nav:
