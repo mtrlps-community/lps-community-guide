@@ -9,7 +9,7 @@ hide:
 
 <div class="headerBackground">
     <div class="image"></div>
-    <h1>MTR Let's Play齐齐玩服务器非官方指南</h1>
+    <h1>MTR 齐齐玩服务器非官方指南</h1>
     <p>在此获取由社区整理的齐齐玩服务器资源</p>
 </div>
 
