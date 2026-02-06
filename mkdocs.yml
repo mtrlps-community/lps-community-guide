@@ -93,7 +93,7 @@ markdown_extensions:
       permalink: true
 
 # 版权信息（可选）
-copyright: Copyright &copy; 2026 Let's Play Community<br>本项目与组织与Microsoft、Mojang及MTR模组与齐齐玩服务器官方无关。
+copyright: Copyright &copy; 2026 Let's Play Community | [服务状态](https://status.ooowl.net/status/mtrlps)<br>本项目与组织与Microsoft、Mojang及MTR模组与齐齐玩服务器官方无关。
 
 # 扩展
 extra:
