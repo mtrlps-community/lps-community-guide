@@ -37,7 +37,7 @@ description: 本页面提供服务器加入指南及加速IP
 
 === "Prism Launcher"
 
-    **打开Prism Launcher，点<kbd>添加实例</kbd>**
+    **打开Prism Launcher，点击<kbd>添加实例</kbd>**
 
     ![Prism首页](/assets/img/prism-home.png)
 
