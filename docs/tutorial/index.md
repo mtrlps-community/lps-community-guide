@@ -14,95 +14,70 @@ description: 本页面提供服务器加入指南及加速IP
 
 ## 整合包安装教程
 
-整合包下载链接见[下载链接](../community/downloads.md)
-请注意这是给有一定电脑基础的玩家准备的  
-如果您此前从未在电脑上运行Minecraft，请从此开始阅读
-如果您此前在电脑上安装过Java17，或使用网易版我的世界启动器游玩过Java版
-Minecraft 1.18 版本及以上，或使用的是官方启动器（不建议使用官方启动器安装整合包，步骤比较繁琐，建议您使用第三方启动器），请从 安装游戏启动器 开始阅读
-如果您此前已经在使用第三方启动器，请从 mc启动 开始阅读
+### Part.1 资源下载（提取码均为 dEqH，所有链接不限速、无需登录）
 
-### 安装Java(21)
+- 主链（OneDrive——含全部资源，建议搭配多线程下载器使用）：[https://lpsresource.ooowl.net](https://lpsresource.ooowl.net)（推荐）
+- OneDrive直连（含全部资源，大陆用户可能无法访问）：[https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qMHNA?e=p5DI3S](https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qMHNA?e=p5DI3S)
+- Zoho Workdrive（仅含 Basic、模组升级包与其他资源，下载速度快）：
+[https://workdrive.zohopublic.com.cn/external/e966604f12f757cfb97372be2dd6d1c22a2c8c5
+3e79946e42252228266b8bb9a](https://workdrive.zohopublic.com.cn/external/e966604f12f757cfb97372be2dd6d1c22a2c8c5
+3e79946e42252228266b8bb9a)
 
-前往此网站下载适合自己的安装包
-- **java**: `https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html`  
-如果不知道下啥 请知道自己是什么系统一般windows  
-向下找到windows 三个选项下哪个都行建议下载exe结尾的  
-点击安装  
-如果您看到您的计算机已安装此软件 请大胆的选择否来退出安装 因为你的电脑已经安装过java21  
-如果一切正常，您将看到如左图所示的窗口，  
-点击“下一步”即可  
-请注意 不建议更改Java21的安装路径否则启动器概率不识别 （除非你c盘真没地方了）  
-等待进度条走完，您应该看到安装成功则java21安装成功  
+进入资源页面后，选择<kbd>整合包与追加包</kbd>。
 
-### 安装游戏启动器  
-不多赘述自行搜索 关键词pcl2或者hmcl启动器  
-安装并登录自己的mc账号 不要选离线！！！  
+![OneDrive](/assets/img/mtr-letsplay-server-rs-home-onedrive.png)
 
-根据电脑情况调整内存分配量，进入游
-戏至少需要6GB；同时调整进程优先级，电
-脑配置低就调高一些；再根据个人喜好调整
-启动器可见性，笔者喜欢保持启动器可见以
-方便游戏管理
+下载带有`Clicktorun`字样的整合包。
 
-### mc启动！
+![OneDrive-整合包与追加包](/assets/img/mtr-letsplay-server-rs-home-onedrive-clicktorun.png)
 
-点击“启动游戏  
+![下载好的资源](/assets/img/downloaded-clicktorun.png)
 
-如果您使用的是PCL2启动器，可能会遇到
-如下文所示的弹窗，请参阅常见问题解答
-（Modrinth App 等其他启动器无法启动也
-可参阅）
+### Part.2 导入整合包
 
-Java Virtual Machne Launcher
-Error:Could nct create the Java Virtual Machine
-Error:A fatal exception has occurred Program will exit
+=== "Prism Launcher"
 
-PCL2 启动时出现左图报错是一个已知的兼容性错误，原因在于 PCL2 对于整合包内的JVM 参数头部处理有误，加入了原参数中没有的反斜杠，导致启动时无法正确运行Packwiz 程序  
-解决办法  
-1.点击“版本设置”  
-2.点击“设置”选项卡  
-3.展开“高级启动设置  
-4.将 JVM 参数头部内所有的反斜杠（向右倾斜的“\”，一共有3个）删除
+    **打开Prism Launcher，点<kbd>添加实例</kbd>**
 
-#### 一切正常  
-应该弹出Packwiz-installer 的窗口，此程序用于模组的自动更新，此时根据网络情况的不同，会出现3种情况
+    ![Prism首页](/assets/img/prism-home.png)
 
-情况1：提示“重新配置可选模组”（通常情况）
-如果您不想检查更新，在继续的10秒倒计时结束前点击“取消”
-在弹出的窗口中点击“忽略
+    **依次点击<kbd>导入</kbd>→<kbd>浏览</kbd>**
 
-如果您想要检查更新，点击“继续”或等待倒计时结束
+    ![导入步骤](/assets/img/import-rp-in-prism-launcher.png)
 
-如果您的网络环境无法连接至Github，大概率出现如左图所示的报错，点击“继续”即可  
-但是如果使用的是本wiki的整合包大概率不会出现此情况  
+    选择你刚刚下载好的包导入，并点击<kbd>确定</kbd>进入下一步。
 
-情况2：一直卡在“载入模组包文件“点击“取消“，跳至情况3
+    稍等片刻，整合包将自动导入完成。
 
-情况3：直接提示“HTTP请求失败”点击“在不更新的情况下继续”
+    ![导入完成后的整合包](/assets/img/imported-pack-in-prism.png)
 
-### 只需等待  
+    **现在，请<kbd>启动</kbd>！**
 
-稍作等待，游戏窗口将会出现，并进入“资源同步实用程序”界面  
-此时，若您此前没有下载过资源包，会先询问下载源（对于中国大陆用户，推荐选择我们的加速源有lpsguidecn的就是我们的）  
-您可以稍后按Esc调出下载源选择界面，使用W键选择上一个，S键选择下一个，Enter键确认  
-就如此段标题所示现在您只需等待  
-如果实在无法更新，您可以选择按Enter禁用资源包 副作用将无法乘坐资源包内的所有列车  
-如果一切正常，您将看到游戏正常加载界面  
-如果您的电脑配置较低，此加载界面可能持续较长时间，并提示“未响应”，这是正常现象，请耐心等待，不要结束进程  
+### Part.3 游戏内操作
 
-### 服务器启动！
+启动后，会加载出模组同步程序，此时请不要操作，将会自动下载/更新所需模组。
 
-如果一切正常，您现在应该顺利进入到游戏主界面  
-1 项“MTR Let’s Play”是旧服务器的 IP，现在已弃用，2024年8月末官服迁移到了新IP，也就是第2项“MTR Let’s Play New”  
-因为mtr主服务器在德国国内可能连接质量不佳可以使用加速ip  
-中国大陆玩家 那个快用哪个具体见下文  
-教程结束 enjoy it！
+![packwiz加载](/assets/img/packwiz-loading.jpg)
 
+模组自动同步完毕后，将会弹出游戏窗口，此时资源同步实用程序会自动下载服务器所需资源包，请耐心等待。
 
+![RPU扫描](/assets/img/rpu-scanning.jpg)
 
+![RPU加载](/assets/img/rpu-downloading.jpg)
 
+完成之后您可能会看到如下界面且可能为英文，请按照下方图片操作：
 
+![设置语言](/assets/img/game-lang-1.jpg)
 
+![设置语言](/assets/img/game-lang-2.jpg)
+
+![设置语言](/assets/img/game-lang-3.jpg)
+
+完成后点击多人游戏，请畅快开玩！
+
+这里附上多人游戏内不同服务器选项所对应地址。
+
+![所有地址](/assets/img/server-choise.png)
 
 ## 服务器IP
 
