@@ -37,11 +37,11 @@ description: 本页面提供服务器加入指南及加速IP
 
 === "Prism Launcher"
 
-    **打开Prism Launcher，点击<kbd>添加实例</kbd>**
+    打开Prism Launcher，点击<kbd>添加实例</kbd>
 
     ![Prism首页](/assets/img/prism-home.png)
 
-    **依次点击<kbd>导入</kbd>→<kbd>浏览</kbd>**
+    依次点击<kbd>导入</kbd>→<kbd>浏览</kbd>
 
     ![导入步骤](/assets/img/import-rp-in-prism-launcher.png)
 
@@ -51,7 +51,7 @@ description: 本页面提供服务器加入指南及加速IP
 
     ![导入完成后的整合包](/assets/img/imported-pack-in-prism.png)
 
-    **现在，请<kbd>启动</kbd>！**
+    现在，请<kbd>启动</kbd>！
 
 ### Part.3 游戏内操作
 
