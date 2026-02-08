@@ -9,7 +9,13 @@
       "hasArchive": false
     },
     {
-      "name": "Proxy (LPSGuideCN)",
+      "name": "Proxy (Aliyun Hangzhou)",
+      "baseUrl": "https://mtrlpsrpu.dusays.com/jlp-rp4/",
+      "hasDirHash": true,
+      "hasArchive": false
+    },
+    {
+      "name": "Proxy (Japan CDN)",
       "baseUrl": "https://rpu.lpsguide.cn/jlp-rp4",
       "hasDirHash": true,
       "hasArchive": false
