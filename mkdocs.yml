@@ -44,6 +44,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - content.tabs.link
     - content.code.annotate
     - content.action.edit
   logo: assets/favicon.png
@@ -88,6 +89,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - footnotes
   - toc:
       permalink: true
