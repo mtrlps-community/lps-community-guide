@@ -25,13 +25,13 @@ description: 本页面提供服务器加入指南及加速IP
 
 进入资源页面后，选择<kbd>整合包与追加包</kbd>。
 
-![OneDrive](/assets/img/mtr-letsplay-server-rs-home-onedrive.png)
+![OneDrive](../assets/img/mtr-letsplay-server-rs-home-onedrive.png)
 
 下载带有`Clicktorun`字样的整合包。
 
-![OneDrive-整合包与追加包](/assets/img/mtr-letsplay-server-rs-home-onedrive-clicktorun.png)
+![OneDrive-整合包与追加包](../assets/img/mtr-letsplay-server-rs-home-onedrive-clicktorun.png)
 
-![下载好的资源](/assets/img/downloaded-clicktorun.png)
+![下载好的资源](../assets/img/downloaded-clicktorun.png)
 
 ### Part.2 导入整合包
 
@@ -39,17 +39,17 @@ description: 本页面提供服务器加入指南及加速IP
 
     打开Prism Launcher，点击<kbd>添加实例</kbd>
 
-    ![Prism首页](/assets/img/prism-home.png)
+    ![Prism首页](../assets/img/prism-home.png)
 
     依次点击<kbd>导入</kbd>→<kbd>浏览</kbd>
 
-    ![导入步骤](/assets/img/import-rp-in-prism-launcher.png)
+    ![导入步骤](../assets/img/import-rp-in-prism-launcher.png)
 
     选择你刚刚下载好的包导入，并点击<kbd>确定</kbd>进入下一步。
 
     稍等片刻，整合包将自动导入完成。
 
-    ![导入完成后的整合包](/assets/img/imported-pack-in-prism.png)
+    ![导入完成后的整合包](../assets/img/imported-pack-in-prism.png)
 
     现在，请<kbd>启动</kbd>！
 
@@ -57,27 +57,27 @@ description: 本页面提供服务器加入指南及加速IP
 
 启动后，会加载出模组同步程序，此时请不要操作，将会自动下载/更新所需模组。
 
-![packwiz加载](/assets/img/packwiz-loading.jpg)
+![packwiz加载](../assets/img/packwiz-loading.jpg)
 
 模组自动同步完毕后，将会弹出游戏窗口，此时资源同步实用程序会自动下载服务器所需资源包，请耐心等待。
 
-![RPU扫描](/assets/img/rpu-scanning.jpg)
+![RPU扫描](../assets/img/rpu-scanning.jpg)
 
-![RPU加载](/assets/img/rpu-downloading.jpg)
+![RPU加载](../assets/img/rpu-downloading.jpg)
 
 完成之后您可能会看到如下界面且可能为英文，请按照下方图片操作：
 
-![设置语言](/assets/img/game-lang-1.jpg)
+![设置语言](../assets/img/game-lang-1.jpg)
 
-![设置语言](/assets/img/game-lang-2.jpg)
+![设置语言](../assets/img/game-lang-2.jpg)
 
-![设置语言](/assets/img/game-lang-3.jpg)
+![设置语言](../assets/img/game-lang-3.jpg)
 
 完成后点击多人游戏，请畅快开玩！
 
 这里附上多人游戏内不同服务器选项所对应地址。
 
-![所有地址](/assets/img/server-choise.png)
+![所有地址](../assets/img/server-choise.png)
 
 ## 服务器IP
 
