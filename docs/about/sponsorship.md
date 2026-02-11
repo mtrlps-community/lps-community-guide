@@ -20,3 +20,5 @@ description: 如果您喜欢我们的项目，不妨支持一下
 | --- | --- | --- |
 | kuisik4 | ¥22.5 | 支付宝 |
 | Karnatia | ¥20.0 | 微信 |
+| XZero_TeaPwd | ¥20.0 | ailpay |
+| oooWl_26 | ¥50.0 | 微信 |
