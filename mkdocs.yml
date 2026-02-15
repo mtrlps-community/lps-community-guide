@@ -106,7 +106,7 @@ extra:
       link: https://github.com/mtrlps-community
       name: GitHub
     - icon: fontawesome/solid/server
-      link: https://status.ooowl.net/status/mtrlps
+      link: https://status.lpsguide.cn
       name: 服务状态
 extra_javascript:
   - assets/umami.js
