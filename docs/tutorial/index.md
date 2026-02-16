@@ -3,7 +3,7 @@ title: 进服指南
 description: 本页面提供服务器加入指南及加速IP
 ---
 
-## [PDF版完整教程](https://tonyv2.top/wp-content/uploads/2026/02/资源说明与进服指南V3.0.pdf)
+## [PDF版完整教程](https://workdrive.zohopublic.com.cn/print/lycmy2fbd8e664397437fac078ac2f3ed990e)
 
 ## 准备
 
