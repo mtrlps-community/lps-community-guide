@@ -43,13 +43,13 @@ description: 本页面提供服务器加入指南及加速IP
 
     依次点击<kbd>导入</kbd>→<kbd>浏览</kbd>
 
-    ![导入步骤](/assets/img/import-rp-in-prism-launcher.png)
+    ![导入步骤](/assets/img/prism-import-modpack.png)
 
     选择你刚刚下载好的包导入，并点击<kbd>确定</kbd>进入下一步。
 
     稍等片刻，整合包将自动导入完成。
 
-    ![导入完成后的整合包](/assets/img/imported-pack-in-prism.png)
+    ![导入完成后的整合包](/assets/img/prism-imported-modpack.png)
 
     现在，请<kbd>启动</kbd>！
 
