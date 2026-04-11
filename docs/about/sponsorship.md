@@ -25,4 +25,4 @@ description: 如果您喜欢我们的项目，不妨支持一下
 | Tony_v2 | ¥50.0 | 微信 |
 | CR400BF-5033(微信名） | ¥32.0 | 微信 |
 | skittlesses | ¥28.0 | 微信 |
-| RetroChain68205 | ¥66.5 | 微信 |
+| RetroChain68205 | ¥116.5 | 微信 |
