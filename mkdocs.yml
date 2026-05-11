@@ -108,7 +108,5 @@ extra:
     - icon: fontawesome/solid/server
       link: https://status.lpsguide.cn
       name: 服务状态
-extra_javascript:
-  - assets/umami.js
 extra_css:
   - assets/stylesheets/global.css
