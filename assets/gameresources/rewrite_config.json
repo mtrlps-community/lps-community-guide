@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "patterns": [
+        "^https?://github\\.com(?::(?:80|443))?/([^/]+)/([^/]+)/raw/(?:refs/heads/)?([^/]+)/(.+)$",
+        "^https?://raw\\.githubusercontent\\.com(?::(?:80|443))?/([^/]+)/([^/]+)/(?:refs/heads/)?([^/]+)/(.+)$",
+        "^https?://raw\\.github\\.com(?::(?:80|443))?/([^/]+)/([^/]+)/([^/]+)/(.+)$",
+        "^https?://github\\.com(?::(?:80|443))?/([^/]+)/([^/]+)/blob/([^/]+)/(.+)\\?raw=true$"
+      ],
+      "target": "https://ghfast.top/https://raw.githubusercontent.com/{$1}/{$2}/{$3}/{$4}"
+    },
+    {
+      "patterns": [
+        "^https?://cdn\\.discordapp\\.com(?::(?:80|443))?/attachments/(.+)$",
+        "^https?://media\\.discordapp\\.net(?::(?:80|443))?/attachments/(.+)$"
+      ],
+      "target": "https://lps.gteh.top/dcimg/{$1}",
+      "ua": "SlideshowProxy",
+      "referer": "NULL"
+    },
+    {
+      "patterns": [
+        "^https?://i\\.imgur\\.com(?::(?:80|443))?/(.+)$"
+      ],
+      "target": "https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/{$1}",
+      "referer": "NULL"
+    }
+  ]
+}
