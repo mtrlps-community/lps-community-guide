@@ -53,6 +53,58 @@ description: 本页面提供服务器加入指南及加速IP
 
     现在，请<kbd>启动</kbd>！
 
+=== "HMCL"
+
+    打开HMCL，点击<kbd>实例列表</kbd>
+
+    ![HMCL首页](../assets/img/hmcl-home.png)
+
+    点击<kbd>安装整合包</kbd>
+
+    ![导入步骤1](../assets/img/hmcl-import-modpack-1.png)
+
+    点击<kbd>导入本地整合包文件</kbd>，选择刚刚下载好的包，点击<kbd>打开</kbd>
+    
+    或者直接将整合包文件拖入启动器窗口中
+
+    ![导入步骤2](../assets/img/hmcl-import-modpack-2.png)
+
+    在文件名一栏中，可以按个人喜好修改版本名称，这会影响启动器内该版本的显示名称与游戏版本文件夹的名称
+
+    核对整合包信息无误后，点击<kbd>安装</kbd>
+
+    ![导入步骤3](../assets/img/hmcl-import-modpack-3.png)
+
+    稍等片刻，整合包将自动导入完成
+
+    ![导入完成后的整合包](../assets/img/hmcl-imported-modpack.png)
+
+    现在，请<kbd>启动游戏</kbd>！
+
+=== "PCL2"
+
+    打开PCL2，点击<kbd>版本选择</kbd>
+
+    ![PCL2首页](../assets/img/pcl2-home.png)
+
+    点击<kbd>导入整合包</kbd>，选择刚刚下载好的包，点击<kbd>打开</kbd>
+    
+    或者直接将整合包文件拖入启动器窗口中
+
+    ![导入步骤1](../assets/img/pcl2-import-modpack-1.png)
+
+    按个人喜好填写版本名称，这会影响启动器内该版本的显示名称与游戏版本文件夹的名称
+
+    填写完毕后点击<kbd>安装</kbd>
+
+    ![导入步骤2](../assets/img/pcl2-import-modpack-2.png)
+
+    稍等片刻，整合包将自动导入完成
+
+    ![导入完成后的整合包](../assets/img/pcl2-imported-modpack.png)
+
+    现在，请<kbd>启动游戏</kbd>！
+
 ### Part.3 游戏内操作
 
 启动后，会加载出模组同步程序，此时请不要操作，将会自动下载/更新所需模组。
