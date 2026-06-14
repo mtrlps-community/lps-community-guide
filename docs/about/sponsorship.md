@@ -19,10 +19,10 @@ description: 如果您喜欢我们的项目，不妨支持一下
 | 名称 | 金额 | 方式 |
 | --- | --- | --- |
 | kuisik4 | ¥22.5 | 支付宝 |
-| Karnatia | ¥110.0 | 微信 |
+| Karnatia | ¥150.0 | 微信 |
 | XZero_TeaPwd | ¥20.0 | ailpay |
 | oooWl_26 | ¥50.0 | 微信 |
-| Tony_V2 | ¥110.0 | 微信 |
+| Tony_V2 | ¥160.0 | 微信 |
 | CR400BF-5033（微信名） | ¥32.0 | 微信 |
 | skittlesses | ¥28.0 | 微信 |
 | RetroChain68205 | ¥166.5 | 微信 |
