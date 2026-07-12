@@ -20,7 +20,7 @@ description: 如果您喜欢我们的项目，不妨支持一下
 | --- | --- | --- |
 | kuisik4 | ¥22.5 | 支付宝 |
 | Karnatia | ¥150.0 | 微信 |
-| XZero_TeaPwd | ¥20.0 | ailpay |
+| XZero_TeaPwd | ¥20.0 | Ailpay HK |
 | oooWl_26 | ¥50.0 | 微信 |
 | Tony_V2 | ¥160.0 | 微信 |
 | CR400BF-5033（微信名） | ¥32.0 | 微信 |
