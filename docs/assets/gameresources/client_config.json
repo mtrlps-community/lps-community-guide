@@ -15,8 +15,8 @@
       "hasArchive": false
     },
     {
-      "name": "Proxy (Japan CDN)",
-      "baseUrl": "https://rpu.lpsguide.cn/jlp-rp4",
+      "name": "Proxy (MZD CDN)",
+      "baseUrl": "https://rpu.lpsguide.cn",
       "hasDirHash": true,
       "hasArchive": false
     }
