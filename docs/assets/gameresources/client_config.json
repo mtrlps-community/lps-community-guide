@@ -3,8 +3,8 @@
   "localPackName": "SyncedPack",
   "sources": [
     {
-      "name": "Official (Tencent Cloud Singapore)",
-      "baseUrl": "https://mc.zbx1425.cn/jlp-rp4",
+      "name": "Official (Cloudflare R2 Asia-Pacific)",
+      "baseUrl": "https://jlp-srp.cdn.zulubox.me",
       "hasDirHash": true,
       "hasArchive": false
     },
