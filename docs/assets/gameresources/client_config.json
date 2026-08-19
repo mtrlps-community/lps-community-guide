@@ -1,10 +1,11 @@
 {
   "version": 2,
   "localPackName": "SyncedPack",
+  "disableBuiltinSources": true,
   "sources": [
     {
       "name": "Official (Cloudflare R2 Asia-Pacific)",
-      "baseUrl": "https://jlp-srp.cdn.zulubox.me",
+      "baseUrl": "https://lp4-mss.cdn.zulubox.me",
       "hasDirHash": true,
       "hasArchive": false
     },
