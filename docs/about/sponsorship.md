@@ -7,7 +7,7 @@ description: 如果您喜欢我们的项目，不妨支持一下
 
 | 微信 | 支付宝 |
 | :---: | :---: |
-| ![微信赞助](https://mtrmirror.lnlfly.com/mm_reward_qrcode_1781268916781.png) | ![支付宝赞助](https://mtrmirror.lnlfly.com/1781268944005.jpg) |
+| ![微信赞助](https://mtrmirror.lnlfly.com/mm_reward_qrcode_1781268916781.p) | ![支付宝赞助](https://mtrmirror.lnlfly.com/1781268944005.j) |
 
 ## 赞助名单
 
