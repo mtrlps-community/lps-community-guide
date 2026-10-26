@@ -64,7 +64,7 @@ nav:
 #  - 图册: gallery/index.md
   - 关于网站:
     - 关于我们: about/index.md
-    - 赞助: about/sponsorship.md
+   # - 赞助: about/sponsorship.md
 
 # 插件
 plugins:
