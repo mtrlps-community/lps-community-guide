@@ -11,9 +11,9 @@ description: 获取由社区提供的服务器资源与线路图镜像
 
 ### MTR Let's Play附属资源
 
-由文档维护成员[@TonyV2](https://github.com/TonyV2Intl)整理出的齐齐玩服务器资源，[@fenychn0206](https://github.com/fenychn0206)提供了对OneDrive的反向代理以解决国内用户无法访问OneDrive的问题。
+由文档维护成员[@TonyV2](https://github.com/TonyV2Intl)整理出的齐齐玩服务器资源，包含整合包、追加包与资源包。
 
-访问地址：[https://lpsresource.ooowl.net/](https://lpsresource.ooowl.net/)
+访问地址：[https://pan.lnlfly.com/s/7eCq/dEqH](https://pan.lnlfly.com/s/7eCq/dEqH)
 <br>
 访问密码：`dEqH`
 
