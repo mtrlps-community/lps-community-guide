@@ -1,0 +1,20 @@
+FROM python:3.11-slim AS builder
+
+WORKDIR /app
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends git && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN git clone --depth=1 https://github.com/mtrlps-community/lps-community-guide.git . && \
+    rm -rf .git/hooks .git/logs
+
+RUN pip install --no-cache-dir \
+    mkdocs-material \
+    mkdocs-git-revision-date-localized-plugin
+
+RUN mkdocs build
+
+FROM nginx:alpine
+COPY --from=builder /app/site /usr/share/nginx/html
+EXPOSE 80
