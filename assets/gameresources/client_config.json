@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "localPackName": "SyncedPack",
+  "disableBuiltinSources": true,
+  "sources": [
+    {
+      "name": "Official (Cloudflare R2 Asia-Pacific)",
+      "baseUrl": "https://lp4-mss.cdn.zulubox.me",
+      "hasDirHash": true,
+      "hasArchive": false
+    },
+    {
+      "name": "Proxy (Aliyun Shanghai)",
+      "baseUrl": "https://mtrlpsrpu.dusays.com",
+      "hasDirHash": true,
+      "hasArchive": false
+    },
+    {
+      "name": "Proxy (MZD CDN)",
+      "baseUrl": "https://rpu.lpsguide.cn",
+      "hasDirHash": true,
+      "hasArchive": false
+    }
+  ]
+}
