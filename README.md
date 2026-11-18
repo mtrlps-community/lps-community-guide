@@ -23,6 +23,5 @@ mkdocs serve
 
 这里也非常感谢参与本项目的[朋友们](https://github.com/mtrlps-community/lps-community-guide/graphs/contributors)和为本项目捐赠的[朋友们](https://www.lpsguide.cn/about/sponsorship/)。
 
----
-
-<samp><b>lps-community-guide</b> &copy; MTR Let's Play Community Team<br>code is licensed under <a href="LICENSE">MIT License</a>, <br>wikis are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-SA 4.0</a>.</samp>
+> Made with ❤️ by [**Let's Play Community Team**](https://github.com/mtrlps-community) | [Website](https://www.lpsguide.cn/) · [Status]([https://afdian.com/a/fenychn0206](https://status.lpsguide.cn/))
+> <br>Code is licensed under [MIT LICENSE](LICENSE) and docs are licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
